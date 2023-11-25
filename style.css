@@ -1,0 +1,81 @@
+body{
+    background-color: #000;
+}
+.ihbiy{
+    border-radius: 5px;
+    background-color : #000;
+    width: 1400px;
+    height: 500px;
+    margin-top: 100px;
+}
+.see1 { 
+    margin-right: 30px;
+   
+}
+.see1 input {
+    margin-top: 115px;
+    width: 250px;
+    height: 200px;
+    font-size: 45px;
+    text-align :center;
+    border-radius: 10px;
+}
+.see1 h3{
+    padding-left: 90px;
+}
+.see2 {
+    margin-right: 30px;
+}
+.see2 input {
+    margin-top: 115px;
+    width: 250px;
+    height: 200px;
+    font-size: 45px;
+    text-align :center;
+    border-radius: 10px;
+}
+.see2 h3{
+    padding-left: 90px;
+}
+.see3 input {
+    margin-top: 115px;
+    width: 250px;
+    height: 200px;
+    font-size: 45px;
+    text-align :center;
+    border-radius: 10px;
+}
+.see3 h3{
+    padding-left: 90px;
+    font-size: 30x;
+}
+button {
+    background-color: #f28c28;
+    color: #fff;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-size: bold;
+    border-color: #f28c28;
+    margin-left :15px;
+    text-align: center;
+}
+.see4 {
+    margin-top: 30px;
+}
+h3 {
+    color: #fff;
+}
+input {
+    background: #808080;
+    color: #fff;
+}
+span {
+    font-size: 20px;
+    color :#fff;
+    background: #f28c28;
+    border-radius: 5px;
+    margin-left: 15px;
+    height: 40px;
+}
